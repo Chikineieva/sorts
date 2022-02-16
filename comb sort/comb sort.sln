@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "comb sort", "comb sort\comb sort.pyproj", "{B671A5AA-A205-4747-A416-141F6EBFAA22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B671A5AA-A205-4747-A416-141F6EBFAA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B671A5AA-A205-4747-A416-141F6EBFAA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A2DBF05-D201-4F18-A7CE-70FF7A3C025D}
+	EndGlobalSection
+EndGlobal
